@@ -2,15 +2,11 @@
 
 ###
 
-📖 I'm a Computer engineering student at University of Salamanca.
 
-🔭 I'm interested in backend, machine learning and game development.
-
-✨ Games, Anime, Manga, Coding, Cooking.
 
 ###
 
-<img align="right" height="200" width="200" src="assets/nahida.gif"  />
+[//]: <img align="right" height="200" width="200" src="assets/nahida.gif"  />
 
 ### Working with:
 
